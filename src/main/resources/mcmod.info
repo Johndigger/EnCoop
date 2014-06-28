@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "encoop",
+  "name": "Encouraged Coop Mod",
+  "description": "'Be forced to cooperate with other players.'",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Johndigger"],
+  "credits": "Me",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
