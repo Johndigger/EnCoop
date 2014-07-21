@@ -3,7 +3,7 @@
   "modid": "encoop",
   "name": "Encouraged Coop Mod",
   "description": "'Be forced to cooperate with other players.'",
-  "version": "${version}",
+  "version": "0.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",

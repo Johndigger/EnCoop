@@ -7,5 +7,7 @@ public class Reference {
 	
 	public static final String SERVER_PROXY_CLASS = "de.nocore.encoop.proxy.ServerProxy";
     public static final String CLIENT_PROXY_CLASS = "de.nocore.encoop.proxy.ClientProxy";
+    
+    public static final String GUI_FACTORY_CLASS ="de.nocore.encoop.client.gui.GuiFactory";
 	
 }
